@@ -1,0 +1,8 @@
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\bin\Debug\examenPOO.exe.config
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\bin\Debug\examenPOO.exe
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\bin\Debug\examenPOO.pdb
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\obj\Debug\examenPOO.csproj.AssemblyReference.cache
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\obj\Debug\examenPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\obj\Debug\examenPOO.csproj.CoreCompileInputs.cache
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\obj\Debug\examenPOO.exe
+C:\Users\2130509\Documents\Code\Prog2\exam_final\examenPOO\ExamenPOO_Le_Nadant_Owen\examenPOO\obj\Debug\examenPOO.pdb
